@@ -1,4 +1,3 @@
 # ensRepo
 
-- Embedded & Software Lab.
-- Ajou University
+Embedded & Software Lab. (Ajou University)
