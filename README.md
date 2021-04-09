@@ -1,5 +1,6 @@
 # ensRepo
 
-Electronics and Computer Engineering, Ajou University
-Embedded and Software Lab.
-San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
+- Embedded and Software Lab.
+- Department of. AI Convergence Network & Electronics and Computer Engineering, Ajou University
+
+- San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
