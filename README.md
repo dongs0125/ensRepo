@@ -10,7 +10,7 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 
 ### Environment
 
-- <b>collaborative robot</b> in <i>smart factory</i>
+- <b>Fault Diagnosis</b> of <b>collaborative robot</b> in <i>smart factory</i>
 
   1) 6-axis robot arm "<i>Niryo-one</i>"
 ![niryo.jpg](https://github.com/dongs0125/ensRepo/blob/main/images/niryo.jpg)
