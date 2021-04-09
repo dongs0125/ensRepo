@@ -9,11 +9,22 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 
 ## Development
 
-1) Database design
+### Database design
 
 - <i>ensdr</i>(embedded and software data repository)
-  - <b>schema</b>
-
-2) Database version
-
-- none
+  - <b>table specification</b>
+    - bootidx_table
+    - commandidx_table
+    - commandid_table
+    - deviceid_table
+    - event_table
+    - file_table
+    - programidx_table
+    - programid_table
+    - angle_table
+    - voltage_table
+    - current_table
+    - temperature_table
+    - position_table
+    - marker_table
+    - panel_table
