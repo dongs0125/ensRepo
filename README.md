@@ -11,7 +11,12 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 ### Environment
 
 - <b>collaborative robot</b> in <i>smart factory</i>
+
+  1) 6-axis robot arm "<i>Niryo-one</i>"
 ![niryo.jpg](https://github.com/dongs0125/ensRepo/blob/main/images/niryo.jpg)
+
+  2) 4-axis robot arm "<i"Dobot magician lite</i>"
+![dobot.jfif](https://github.com/dongs0125/ensRepo/blob/main/images/dobot.jfif)
 
 ### Database design
 
