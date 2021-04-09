@@ -11,7 +11,7 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 ### Environment
 
 - <b>collaborative robot</b> in <i>smart factory</i>
-
+![niryo.jpg](https://github.com/dongs0125/ensRepo/blob/main/images/niryo.jpg)
 
 ### Database design
 
