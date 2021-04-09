@@ -15,7 +15,7 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
   1) Device #1. <b>6-axis</b> cobot arm "<i>[Niryo-one](https://niryo.com/product/ned/)</i>"
 ![niryo.jpg](https://github.com/dongs0125/ensRepo/blob/main/images/niryo.jpg)
 
-  2) Device #2. <b>4-axis</b> robot arm "<i>"Dobot magician lite</i>"
+  2) Device #2. <b>4-axis</b> robot arm "<i>"[Dobot magician lite](https://www.dobot.cc/magician-lite.html)</i>"
 ![dobot_magicianlite.png](https://github.com/dongs0125/ensRepo/blob/main/images/dobot_magicianlite.png)
 
 ### Database design
