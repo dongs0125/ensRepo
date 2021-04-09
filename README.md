@@ -12,10 +12,10 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 
 - <b>Fault Diagnosis</b> of <b>collaborative robot</b> in <i>smart factory</i>
 
-  1) 6-axis robot arm "<i>Niryo-one</i>"
+  1) Device #1. <b>6-axis</b> robot arm "<i>Niryo-one</i>"
 ![niryo.jpg](https://github.com/dongs0125/ensRepo/blob/main/images/niryo.jpg)
 
-  2) 4-axis robot arm "<i>"Dobot magician lite</i>"
+  2) Device #2. <b>4-axis</b> robot arm "<i>"Dobot magician lite</i>"
 ![dobot_magicianlite.png](https://github.com/dongs0125/ensRepo/blob/main/images/dobot_magicianlite.png)
 
 ### Database design
