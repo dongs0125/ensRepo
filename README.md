@@ -8,6 +8,11 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 
 ## Development
 
+## Environment
+
+- <b>collaborative robot</b> in <i>smart factory</i>
+
+
 ### Database design
 
 - <i>ensdr</i>(embedded and software data repository)
