@@ -1,6 +1,6 @@
 # ensRepo
 
-Embedded and Software Lab.
+[Embedded and Software Lab.](http://eslab.ajou.ac.kr/)
 
 Department of. <i>AI Convergence Network & Electronics and Computer Engineering, Ajou University</i>
 
