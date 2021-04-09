@@ -11,9 +11,8 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 
 1) Database design
 
-- <i>ensdr</i>: embedded and software data repository
-
-- DB schema
+- <i>ensdr</i>(embedded and software data repository)
+  - <b>schema</b>
 
 2) Database version
 
