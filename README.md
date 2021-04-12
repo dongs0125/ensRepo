@@ -8,9 +8,18 @@ San 5 Wonchon-Dong Youngtong-Gu, Suwon, Kyeonggi-Do, 443-749, Korea
 
 ## Development
 
+### Objective
+
+- <b>Predictive Maintenance</b> of <b>collaborative robot</b> in <i>smart factory</i>
+  - Fault Diagnosis
+    - Anomaly Detection
+    - Fault Detection
+    - Failure Prediction
+  - Health Assessment
+
 ### Environment
 
-- <b>Fault Diagnosis</b> of <b>collaborative robot</b> in <i>smart factory</i>
+- Machinery: Collaborative Robot
 
   1) Device #1. <b>6-axis</b> cobot arm "<i>[Niryo-one](https://niryo.com/product/ned/)</i>"
 ![niryo.jpg](https://github.com/dongs0125/ensRepo/blob/main/images/niryo.jpg)
