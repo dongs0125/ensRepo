@@ -1,6 +1,10 @@
 ### Database design
 
 - <i>ensdr</i> (embedded and software data repository)
+  - <b>version information</b>
+    - release 0.5
+      - </i>initiate ensdr database</i> (creation of basic table)
+
   - <b>table specification</b>
     - bootidx_table
     - commandidx_table
@@ -17,7 +21,3 @@
     - position_table
     - marker_table
     - panel_table
-  
-  - <b>version information</b>
-    - release 0.5
-      - </i>initiate ensdr database</i> (creation of basic table)
