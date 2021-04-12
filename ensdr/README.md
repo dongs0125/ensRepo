@@ -17,3 +17,7 @@
     - position_table
     - marker_table
     - panel_table
+  
+  - <b>version information</b>
+    - release 0.5
+      - </i>initiate ensdr database</i> (creation of basic table)
