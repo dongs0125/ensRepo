@@ -3,7 +3,7 @@
 - <i>ensdr</i> (embedded and software data repository)
   - <b>version information</b>
     - release 0.5
-      - </i>initiate ensdr database</i> (creation of basic table)
+      - initiate <i>ensdr</i> database (creation of basic table)
 
   - <b>table specification</b>
     - bootidx_table
